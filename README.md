@@ -1,4 +1,4 @@
-﻿# Patika - Variables App
+﻿# Patika - If Else App
 
 This C# application prompts the user to enter a number and performs the following actions:
 
